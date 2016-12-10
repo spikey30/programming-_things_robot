@@ -31,7 +31,7 @@ void loop() {
 
     if(incomingByte == 'A')
     {
-      
+      digitalWrite(ledPin, HIGH);
       /*for (int speed = 0; speed <50; speed++)
       {
 
