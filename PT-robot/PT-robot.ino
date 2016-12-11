@@ -41,9 +41,9 @@ void loop() {
       }*/
      
 
-        motors.setLeftSpeed(150);
+        motors.setLeftSpeed(-150);
         motors.setRightSpeed(300);
-        delay(1000);
+        delay(500);
         motors.setLeftSpeed(0);
         motors.setRightSpeed(0);
       
@@ -64,8 +64,8 @@ void loop() {
      
 
         motors.setLeftSpeed(300);
-        motors.setRightSpeed(150);
-        delay(1000);
+        motors.setRightSpeed(-150);
+        delay(500);
         motors.setLeftSpeed(0);
         motors.setRightSpeed(0);
       
