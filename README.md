@@ -1,8 +1,6 @@
 # programming-_things_robot
 Programming the zumo robot for the assignment 
 
-TASKS 
+video link:
 
-1 controllthe robot with arrow keys wireless from computer using xbee.
-
-2 
+https://drive.google.com/open?id=0Bxsrj3xhv8sbQ2JrQV9rYXZwSGc
